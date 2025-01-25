@@ -1,3 +1,0 @@
-C:\Users\metin\Desktop\Pr0jectX\Binary\Client\CWebBrowser\Release\CWebBrowser.lib
-D:\Pr0jectX\Binary\Client\CWebBrowser\Release\CWebBrowser.lib
-E:\Pr0jectX\Binary\Client\CWebBrowser\Release\CWebBrowser.lib
