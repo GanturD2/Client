@@ -1,0 +1,17 @@
+﻿  LODController.cpp
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+  ModelInstance.cpp
+  ModelInstanceCollisionDetection.cpp
+  ModelInstanceModel.cpp
+  ModelInstanceMotion.cpp
+  ModelInstanceRender.cpp
+  ModelInstanceUpdate.cpp
+  Motion.cpp
+  Thing.cpp
+  ThingInstance.cpp
+  Util.cpp
+E:\Pr0jectX\Binary\Client\eterGrnLib\LODController.cpp(415,127): warning C5055: Operator "+": zwischen Enumerationen und Gleitkommatypen veraltet
+E:\Pr0jectX\Binary\Client\eterGrnLib\ModelInstanceUpdate.cpp(12,71): warning C5055: Operator "*": zwischen Enumerationen und Gleitkommatypen veraltet
+  eterGrnLib.vcxproj -> E:\Pr0jectX\Binary\Client\eterGrnLib\Release\EterGrnLib.lib

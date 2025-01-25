@@ -1,0 +1,3 @@
+C:\Users\metin\Desktop\Pr0jectX\Binary\Client\eterGrnLib\Release\EterGrnLib.lib
+D:\Pr0jectX\Binary\Client\eterGrnLib\Release\EterGrnLib.lib
+E:\Pr0jectX\Binary\Client\eterGrnLib\Release\EterGrnLib.lib
