@@ -1,0 +1,6 @@
+﻿  attribute.cc
+E:\Pr0jectX\Source\Server\libgame\src\attribute.cc(69,23): warning C4244: "=": Konvertierung von "DWORD" in "WORD", möglicher Datenverlust
+E:\Pr0jectX\Source\Server\libgame\src\attribute.cc(82,23): warning C4244: "=": Konvertierung von "DWORD" in "BYTE", möglicher Datenverlust
+  grid.cc
+  targa.cc
+  libgame.vcxproj -> E:\Pr0jectX\Source\Server\libgame\lib\libgame.lib
