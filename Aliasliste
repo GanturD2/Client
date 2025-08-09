@@ -1,0 +1,729 @@
+6200185;effect;flash;MH_CH_AssassinBoss_Disturb_Flashbang_flash_Epic6;Gleam;
+6200273;effect;hide;Quest_Assassin_Disturb_Hide;Stealth;
+6200441;effect;flash;Quest_Epic7_Assassin_Disturb_Flashbang_Power_Flash;Gleam;
+6200442;effect;hide;Quest_Epic7_Assassin_Disturb_SmokeScreen_Hide;Stealth;
+15001001;effect;modify-ability-25;Assassin_Hide_PassiveEffect;;
+15001002;effect;put-in-sword;Assassin_Hide_Reveal_Lv1_Passive;;
+15001003;effect;melee-physical-attack;Assassin_L0_Disturb_MistSlash_1_Damage;;
+15001004;effect;melee-physical-attack;Assassin_L0_Disturb_MistSlash_2_Damage;;
+15001005;effect;melee-physical-attack;Assassin_L0_Disturb_MistSlash_3_Damage;;
+15001006;effect;melee-physical-attack;Assassin_L1_Disturb_MistSlash_1_Damage;;
+15001007;effect;melee-physical-attack;Assassin_L1_Disturb_MistSlash_2_Damage;;
+15001008;effect;melee-physical-attack;Assassin_L1_Disturb_MistSlash_3_Damage;;
+15001009;effect;melee-physical-attack;Assassin_LQ_Disturb_MistSlash_1_Damage;;
+15001010;effect;melee-physical-attack;Assassin_LQ_Disturb_MistSlash_2_Damage;;
+15001011;effect;melee-physical-attack;Assassin_LQ_Disturb_MistSlash_3_Damage;;
+15001012;effect;melee-physical-attack;Assassin_L2_Disturb_MistSlash_1_Damage;;
+15001013;effect;melee-physical-attack;Assassin_L2_Disturb_MistSlash_2_Damage;;
+15001014;effect;melee-physical-attack;Assassin_L2_Disturb_MistSlash_3_Damage;;
+15001015;effect;melee-physical-attack;Assassin_L2_Disturb_MistSlash_1_Damage_add;;
+15001016;effect;melee-physical-attack;Assassin_L2_Disturb_MistSlash_2_Damage_add;;
+15001017;effect;melee-physical-attack;Assassin_L2_Disturb_MistSlash_3_Damage_add;;
+15001018;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_1_Damage;;
+15001019;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_2_Damage;;
+15001020;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_3_Damage;;
+15001021;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_1_Damage_add;;
+15001022;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_2_Damage_add;;
+15001023;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_3_Damage_add;;
+15001024;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_1_Damage_add2;;
+15001025;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_2_Damage_add2;;
+15001026;effect;melee-physical-attack;Assassin_L3_Disturb_MistSlash_3_Damage_add2;;
+15001027;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_1_Damage;;
+15001028;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_2_Damage;;
+15001029;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_3_Damage;;
+15001030;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_1_Damage_add;;
+15001031;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_2_Damage_add;;
+15001032;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_3_Damage_add;;
+15001033;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_1_Damage_add2;;
+15001034;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_2_Damage_add2;;
+15001035;effect;melee-physical-attack;Assassin_L4_Disturb_MistSlash_3_Damage_add2;;
+15001036;effect;melee-physical-attack;Assassin_L2_Disturb_DewSlash_1_Damage;;
+15001037;effect;melee-physical-attack;Assassin_L2_Disturb_DewSlash_2_Damage;;
+15001038;effect;melee-physical-attack;Assassin_L2_Disturb_DewSlash_3_Damage;;
+15001039;effect;melee-physical-attack;Assassin_L3_Disturb_DewSlash_1_Damage;;
+15001040;effect;melee-physical-attack;Assassin_L3_Disturb_DewSlash_2_Damage;;
+15001041;effect;melee-physical-attack;Assassin_L3_Disturb_DewSlash_3_Damage;;
+15001042;effect;melee-physical-attack;Assassin_L3_Disturb_DewSlash_1_Damage_add;;
+15001043;effect;melee-physical-attack;Assassin_L3_Disturb_DewSlash_2_Damage_add;;
+15001044;effect;melee-physical-attack;Assassin_L3_Disturb_DewSlash_3_Damage_add;;
+15001045;effect;melee-physical-attack;Assassin_L4_Disturb_DewSlash_1_Damage;;
+15001046;effect;melee-physical-attack;Assassin_L4_Disturb_DewSlash_2_Damage;;
+15001047;effect;melee-physical-attack;Assassin_L4_Disturb_DewSlash_3_Damage;;
+15001048;effect;melee-physical-attack;Assassin_L4_Disturb_DewSlash_1_Damage_add;;
+15001049;effect;melee-physical-attack;Assassin_L4_Disturb_DewSlash_2_Damage_add;;
+15001050;effect;melee-physical-attack;Assassin_L4_Disturb_DewSlash_3_Damage_add;;
+15001051;effect;melee-physical-attack;Assassin_L3_Disturb_MoonLightSlash_1_Damage;;
+15001052;effect;melee-physical-attack;Assassin_L3_Disturb_MoonLightSlash_2_Damage;;
+15001053;effect;melee-physical-attack;Assassin_L3_Disturb_MoonLightSlash_3_Damage;;
+15001054;effect;melee-physical-attack;Assassin_L3_Disturb_MoonLightSlash_1_Damage_add;;
+15001055;effect;melee-physical-attack;Assassin_L3_Disturb_MoonLightSlash_2_Damage_add;;
+15001056;effect;melee-physical-attack;Assassin_L3_Disturb_MoonLightSlash_3_Damage_add;;
+15001057;effect;melee-physical-attack;Assassin_L4_Disturb_MoonLightSlash_1_Damage;;
+15001058;effect;melee-physical-attack;Assassin_L4_Disturb_MoonLightSlash_2_Damage;;
+15001059;effect;melee-physical-attack;Assassin_L4_Disturb_MoonLightSlash_3_Damage;;
+15001060;effect;melee-physical-attack;Assassin_L4_Disturb_MoonLightSlash_1_Damage_add;;
+15001061;effect;melee-physical-attack;Assassin_L4_Disturb_MoonLightSlash_2_Damage_add;;
+15001062;effect;melee-physical-attack;Assassin_L4_Disturb_MoonLightSlash_3_Damage_add;;
+15001063;effect;melee-physical-attack;Assassin_Hide_SpineStab_Damage;;
+15001064;effect;dispel-attribute;Assassin_Common_Dispel_air;;
+15001065;effect;midair-3;Assassin_Disturb_Airkick_Midair;Airborne;Paralyzed
+15001066;effect;melee-physical-attack;Assassin_Disturb_Airkick_Damage;;
+15001067;effect;tumbling;Assassin_Disturb_ThunderDrop_Tumbling;;
+15001068;effect;modify-ability-27;Assassin_Disturb_ThunderDrop_anim;;
+15001069;effect;modify-ability-208;Assassin_Disturb_ThunderDrop_Midair;;
+15001070;effect;dispel-type;Assassin_Disturb_ThunderDrop_Midair_Dispel;;
+15001071;effect;down;Assassin_Disturb_ThunderDrop_Down2;Knockdown;Paralyzed
+15001072;effect;melee-physical-attack;Assassin_Disturb_ThunderDrop_Damage;;
+15001073;effect;modify-ability-40;Assassin_Disturb_String_CasterFlag;;
+15001074;effect;dispel-type;Assassin_Disturb_String_Dispel;;
+15001075;effect;modify-ability-15;Assassin_Disturb_String_CasterFlag2;;
+15001076;effect;modify-ability-40;Assassin_Disturb_String_Moveblock;;
+15001077;effect;dispel-attribute;Assassin_Disturb_String_DispelAttr;;
+15001078;effect;return-sim-skill;Assassin_Disturb_String_SimFinish;;
+15001079;effect;down;Assassin_Disturb_StringPlay_Down;Knockdown;Paralyzed
+15001080;effect;melee-physical-attack;Assassin_Disturb_StringLightning_Damage;;
+15001081;effect;modify-ability-51;Assassin_Disturb_StringLightning_Slow;;
+15001082;effect;melee-physical-attack;Assassin_Disturb_StringPull_Damage;;
+15001083;effect;recall-to-caster;Assassin_Disturb_StringPull_Pull;Dazed;Paralyzed
+15001084;effect;kneel;Assassin_Disturb_StringPull_kneel;Dazed;Paralyzed
+15001085;effect;melee-physical-attack;Assassin_L0_Disturb_HeartStab_Damage;;
+15001086;effect;melee-physical-attack;Assassin_L1_Disturb_HeartStab_Damage;;
+15001087;effect;melee-physical-attack;Assassin_L2_Disturb_HeartStab_Damage;;
+15001088;effect;melee-physical-attack;Assassin_L3_Disturb_HeartStab_Damage;;
+15001089;effect;melee-physical-attack;Assassin_L3_Disturb_HeartStab_Damage_Add;;
+15001090;effect;melee-physical-attack;Assassin_L4_Disturb_HeartStab_Damage;;
+15001091;effect;melee-physical-attack;Assassin_L4_Disturb_HeartStab_Damage_Add;;
+15001092;effect;melee-physical-attack;Assassin_L5_Disturb_HeartStab_Damage;;
+15001093;effect;melee-physical-attack;Assassin_L5_Disturb_HeartStab_Damage_Add;;
+15001094;effect;melee-physical-attack;Assassin_L4_HeartStab_Hit_Stat_Damage;;
+15001095;effect;melee-physical-attack;Assassin_L4_HeartStab_Dodge_Stat_Damage;;
+15001096;effect;melee-physical-attack;Assassin_L5_HeartStab_Hit_Stat_Damage;;
+15001097;effect;melee-physical-attack;Assassin_L5_HeartStab_Dodge_Stat_Damage;;
+15001098;effect;melee-physical-attack;Assassin_L2_Disturb_HeartBomb_Damage;;
+15001099;effect;melee-physical-attack;Assassin_L3_Disturb_HeartBomb_Damage;;
+15001100;effect;melee-physical-attack;Assassin_L3_Disturb_HeartBomb_Damage_Add;;
+15001101;effect;melee-physical-attack;Assassin_L4_Disturb_HeartBomb_Damage;;
+15001102;effect;melee-physical-attack;Assassin_L4_Disturb_HeartBomb_Damage_Add;;
+15001103;effect;melee-physical-attack;Assassin_L5_Disturb_HeartBomb_Damage;;
+15001104;effect;melee-physical-attack;Assassin_L5_Disturb_HeartBomb_Damage_Add;;
+15001105;effect;melee-physical-attack;Assassin_L5_Disturb_HeartBomb_Damage_Add2;;
+15001106;effect;melee-physical-attack;Assassin_L4_HeartBomb_Hit_Stat_Damage;;
+15001107;effect;melee-physical-attack;Assassin_L4_HeartBomb_Dodge_Stat_Damage;;
+15001108;effect;melee-physical-attack;Assassin_L5_HeartBomb_Hit_Stat_Damage;;
+15001109;effect;melee-physical-attack;Assassin_L5_HeartBomb_Dodge_Stat_Damage;;
+15001110;effect;melee-physical-attack;Assassin_L3_Disturb_LightningStab_Damage;;
+15001111;effect;melee-physical-attack;Assassin_L3_Disturb_LightningStab_Damage_Add;;
+15001112;effect;melee-physical-attack;Assassin_L4_Disturb_LightningStab_Damage;;
+15001113;effect;melee-physical-attack;Assassin_L4_Disturb_LightningStab_Damage_Add1;;
+15001114;effect;melee-physical-attack;Assassin_L4_Disturb_LightningStab_Damage_Add2;;
+15001115;effect;melee-physical-attack;Assassin_L5_Disturb_LightningStab_Damage;;
+15001116;effect;melee-physical-attack;Assassin_L5_Disturb_LightningStab_Damage_Add1;;
+15001117;effect;melee-physical-attack;Assassin_L4_LightningStab_Hit_Stat_Damage;;
+15001118;effect;melee-physical-attack;Assassin_L4_LightningStab_Dodge_Stat_Damage;;
+15001119;effect;melee-physical-attack;Assassin_L5_LightningStab_Hit_Stat_Damage;;
+15001120;effect;melee-physical-attack;Assassin_L5_LightningStab_Dodge_Stat_Damage;;
+15001121;effect;modify-ability-187;Assassin_LightningSplit_LightningSlash_Flag;;
+15001122;effect;dispel-type;Assassin_LightningSplit_LightningSlash_Flag_Dispel;;
+15001123;effect;modify-ability-144;Assassin_Disturb_LightningStep_CastFlag;Lightning Stride;Lightning Stride unavailable.
+15001124;effect;modify-ability-144;Assassin_Disturb_LightningStep_CastFlag_Binding;;Lightning Stride unavailable.
+15001125;effect;dispel-type;Assassin_LightningStep_CastFlag_Dispel;;
+15001126;effect;tumbling;Assassin_LightningStep_Tumbling_1;;
+15001127;effect;modify-recycle-time;Assassin_Disturb_LightningStep_Recycle;;
+15001128;effect;melee-physical-attack;Assassin_L0_LightningStep_Damage;;
+15001129;effect;melee-physical-attack;Assassin_L1_LightningStep_Damage;;
+15001130;effect;melee-physical-attack;Assassin_L2_LightningStep_Damage;;
+15001131;effect;melee-physical-attack;Assassin_L2_LightningStep_Damage_Add;;
+15001132;effect;melee-physical-attack;Assassin_L3_LightningStep_Damage;;
+15001133;effect;melee-physical-attack;Assassin_L3_LightningStep_Damage_Add;;
+15001134;effect;melee-physical-attack;Assassin_L3_LightningStep_Damage_Add2;;
+15001135;effect;melee-physical-attack;Assassin_L4_LightningStep_Damage;;
+15001136;effect;melee-physical-attack;Assassin_L4_LightningStep_Damage_Add;;
+15001137;effect;melee-physical-attack;Assassin_L4_LightningStep_Damage_Add2;;
+15001138;effect;melee-physical-attack;Assassin_L4_LightningStep_Hit_Stat_Damage;;
+15001139;effect;melee-physical-attack;Assassin_L4_LightningStep_Dodge_Stat_Damage;;
+15001140;effect;melee-physical-attack;Assassin_L4_2_LightningStep_Damage;;
+15001141;effect;melee-physical-attack;Assassin_L4_2_LightningStep_Damage_Add;;
+15001142;effect;melee-physical-attack;Assassin_L4_2_LightningStep_Damage_Add2;;
+15001143;effect;melee-physical-attack;Assassin_L4_2_LightningStep_Hit_Stat_Damage;;
+15001144;effect;melee-physical-attack;Assassin_L4_2_LightningStep_Dodge_Stat_Damage;;
+15001145;effect;modify-ability-190;Assassin_Reduce_HealPower;Deep Wound;-50% Recovery
+15001146;effect;melee-physical-attack;Assassin_L2_LightningStep_Damage2;;
+15001147;effect;melee-physical-attack;Assassin_L3_LightningStep_Damage2;;
+15001148;effect;stagger;Assassin_Common_ElectricShock;;
+15001149;effect;stagger;Assassin_Common_ElectricShock2;;
+15001150;effect;stagger;Assassin_Common_ElectricShock3;;
+15001151;effect;modify-ability-147;Assassin_Common_PoisonHeartStab_Flag;;
+15001152;effect;dispel-type;Assassin_Common_PoisonHeartStab_Flag_Dispel;;
+15001153;effect;melee-physical-attack;Assassin_Common_PoisonHeartStab_Damage;;
+15001154;effect;melee-physical-attack;Assassin_L0_LightningSplit_Damage;;
+15001155;effect;melee-physical-attack;Assassin_L1_LightningSplit_Damage;;
+15001156;effect;melee-physical-attack;Assassin_L2_LightningSplit_Damage;;
+15001157;effect;melee-physical-attack;Assassin_L3_LightningSplit_Damage;;
+15001158;effect;melee-physical-attack;Assassin_L2_LightningSplit_Damage2;;
+15001159;effect;melee-physical-attack;Assassin_L3_LightningSplit_Damage2;;
+15001160;effect;melee-physical-attack;Assassin_L3_LightningSplit_Damage3;;
+15001161;effect;melee-physical-attack;Assassin_L4_LightningSplit_Damage;;
+15001162;effect;melee-physical-attack;Assassin_L4_LightningSplit_Damage_Add;;
+15001163;effect;melee-physical-attack;Assassin_L4_LightningSplit_Damage2;;
+15001164;effect;melee-physical-attack;Assassin_L4_LightningSplit_Damage2_Add;;
+15001165;effect;melee-physical-attack;Assassin_L4_LightningSplit_Damage3;;
+15001166;effect;melee-physical-attack;Assassin_L3_LightningSlash_Damage;;
+15001167;effect;melee-physical-attack;Assassin_L3_LightningSlash_Damage_Add;;
+15001168;effect;melee-physical-attack;Assassin_L4_LightningSlash_Damage;;
+15001169;effect;melee-physical-attack;Assassin_L4_LightningSlash_Damage_Add;;
+15001170;effect;melee-physical-attack;Assassin_L5_LightningSlash_Damage;;
+15001171;effect;melee-physical-attack;Assassin_L5_LightningSlash_Damage_Add;;
+15001172;effect;melee-physical-attack;Assassin_L4_LightningSlash_Hit_Stat_Damage;;
+15001173;effect;melee-physical-attack;Assassin_L4_LightningSlash_Dodge_Stat_Damage;;
+15001174;effect;melee-physical-attack;Assassin_L5_LightningSlash_Hit_Stat_Damage;;
+15001175;effect;melee-physical-attack;Assassin_L5_LightningSlash_Dodge_Stat_Damage;;
+15001176;effect;melee-physical-attack;Assassin_Disturb_LeafSlash_Damage;;
+15001177;effect;modify-ability-142;Assassin_Disturb_LeafSlash_Flag;Shunpo;Shunpo unavailable.
+15001178;effect;dispel-type;Assassin_Disturb_LeafSlash_Flag_Dispel;;
+15001179;effect;modify-ability-166;Assassin_Disturb_LeafSlash_CamBlock_Dodge100p;;
+15001180;effect;dispel-type;Assassin_Disturb_ShadowPenetration_Dispel;;
+15001181;effect;knockback;Assassin_Disturb_ShadowPenetration_Knockback;Knockback;
+15001182;effect;knockback;Assassin_Disturb_ShadowPenetration_Knockback2;Knockback;
+15001183;effect;dash-block;Assassin_Disturb_ShadowPenetration_Shadow;Shadow Walker;Decreases movement speed and blocks approach skills
+15001184;effect;melee-physical-attack;Assassin_L0_Disturb_ShadowPenetration_Damage;;
+15001185;effect;melee-physical-attack;Assassin_L1_Disturb_ShadowPenetration_Damage;;
+15001186;effect;melee-physical-attack;Assassin_L2_Disturb_ShadowPenetration_Damage2;;
+15001187;effect;melee-physical-attack;Assassin_L3_Disturb_ShadowPenetration_Damage2;;
+15001188;effect;melee-physical-attack;Assassin_L4_Disturb_ShadowPenetration_Damage2;;
+15001189;effect;melee-physical-attack;Assassin_L0_Disturb_LightningKick_Damage;;
+15001190;effect;melee-physical-attack;Assassin_L1_Disturb_LightningKick_Damage;;
+15001191;effect;melee-physical-attack;Assassin_L2_Disturb_LightningKick_Damage;;
+15001192;effect;melee-physical-attack;Assassin_L2_Disturb_LightningKick_Damage_Add;;
+15001193;effect;melee-physical-attack;Assassin_L3_Disturb_LightningKick_Damage;;
+15001194;effect;melee-physical-attack;Assassin_L3_Disturb_LightningKick_Damage_Add;;
+15001195;effect;melee-physical-attack;Assassin_L2_Disturb_LightningKick_Damage2;;
+15001196;effect;melee-physical-attack;Assassin_L2_Disturb_LightningKick_Damage_Add2;;
+15001197;effect;melee-physical-attack;Assassin_L0_Disturb_Dash_Damage;;
+15001198;effect;melee-physical-attack;Assassin_L1_Disturb_Dash_Damage;;
+15001199;effect;melee-physical-attack;Assassin_L2_Disturb_Dash_Damage;;
+15001200;effect;melee-physical-attack;Assassin_L3_Disturb_Dash_Damage;;
+15001201;effect;melee-physical-attack;Assassin_L4_Disturb_Dash_Damage;;
+15001202;effect;melee-physical-attack;Assassin_L3_Disturb_Dash_Damage2;;
+15001203;effect;melee-physical-attack;Assassin_L4_Disturb_Dash_Damage2;;
+15001204;effect;melee-physical-attack;Assassin_L2_Disturb_StunDash_Damage;;
+15001205;effect;melee-physical-attack;Assassin_L3_Disturb_StunDash_Damage;;
+15001206;effect;melee-physical-attack;Assassin_L4_Disturb_StunDash_Damage;;
+15001207;effect;modify-ability-124;Assassin_Disturb_Dash_Bounce;;
+15001208;effect;modify-ability-127;Assassin_Disturb_Dash_BuffPerfectDodge;Evasion;Increases Evasion
+15001209;effect;hp-heal;Assassin_Disturb_Dash_HP_Heal3;Skill Effect;
+15001210;effect;hp-heal;Assassin_Disturb_Dash_HP_Heal2;Skill Effect;
+15001211;effect;hp-heal;Assassin_Disturb_Dash_HP_Heal1;Skill Effect;
+15001212;effect;melee-physical-attack;Assassin_L0_Hide_LowKick_Damage;;
+15001213;effect;melee-physical-attack;Assassin_L1_Hide_LowKick_Damage;;
+15001214;effect;melee-physical-attack;Assassin_L2_Hide_LowKick_Damage;;
+15001215;effect;melee-physical-attack;Assassin_L3_Hide_LowKick_Damage;;
+15001216;effect;melee-physical-attack;Assassin_L4_Hide_LowKick_Damage;;
+15001217;effect;melee-physical-attack;Assassin_L2_Hide_LowKick_Damage2;;
+15001218;effect;melee-physical-attack;Assassin_L3_Hide_LowKick_Damage2;;
+15001219;effect;melee-physical-attack;Assassin_L4_Hide_LowKick_Damage2;;
+15001220;effect;swoon;Assassin_Hide_LowKick_Swoon;Unconscious;Unconscious, effect ends when hit
+15001221;effect;down;Assassin_Hide_LowKick_Down_2s;Knockdown;Paralyzed
+15001222;effect;down;Assassin_Hide_LowKick_Down;Knockdown;Paralyzed
+15001223;effect;kneel;Assassin_Hide_LowKick_Kneel;Dazed;Paralyzed
+15001224;effect;kneel;Assassin_Common_Kneel;Dazed;
+15001225;effect;interval-sp-heal;Assassin_interval_sp_heal_10;;Recovers Focus per sec.
+15001226;effect;interval-sp-heal;Assassin_interval_sp_heal_15;;Recovers Focus per sec.
+15001227;effect;melee-physical-attack;Assassin_L2_ShadowDrain_Damage;;
+15001228;effect;melee-physical-attack;Assassin_L3_ShadowDrain_Damage;;
+15001229;effect;melee-physical-attack;Assassin_L4_ShadowDrain_Damage;;
+15001230;effect;melee-physical-attack;Assassin_L0_Disturb_PoisonBreath_Damage;;
+15001231;effect;melee-physical-attack;Assassin_L1_Disturb_PoisonBreath_Damage;;
+15001232;effect;melee-physical-attack;Assassin_L2_Disturb_PoisonBreath_Damage;;
+15001233;effect;melee-physical-attack;Assassin_L3_Disturb_PoisonBreath_Damage;;
+15001234;effect;melee-physical-attack;Assassin_L4_Disturb_PoisonBreath_Damage;;
+15001235;effect;melee-physical-attack-drain;Assassin_Disturb_PoisonBreath_DamageDrain;;
+15001236;effect;melee-physical-attack;Assassin_S0_1_Disturb_PoisonBreath_Damage;;
+15001237;effect;melee-physical-attack-drain;Assassin_S0_1_Disturb_PoisonBreath_DamageDrain;;
+15001238;effect;modify-ability-28;Assassin_Disturb_PoisonBreath_DodgeParryblock;;
+15001239;effect;modify-ability-28;Assassin_Disturb_PoisonBreath_DodgeParryblock2;;
+15001240;effect;modify-ability-119;Assassin_Disturb_PoisonBreath_BuffCritical_5per;Critical Rate;Critical Rate Bonus
+15001241;effect;modify-ability-119;Assassin_Disturb_PoisonBreath_BuffCritical_10per;Critical Rate;Critical Rate Bonus
+15001242;effect;interval-range-physical-damage;Assassin_Disturb_PoisonSpider_DOT;Venom Swarm;DoT. Block and Counter unavailable.
+15001243;effect;melee-physical-attack;Assassin_Disturb_PoisonSpider_Damage;Venom Swarm;DoT. Block and Counter unavailable.
+15001244;effect;defence-block;Assassin_Disturb_PoisonSpider_Blockdefence;Venom Swarm;DoT. Block and Counter unavailable.
+15001245;effect;defence-block;Assassin_Disturb_PoisonSpider_Blockdefence2;Venom Swarm;DoT. Block and Counter unavailable.
+15001246;effect;defence-block;Assassin_Disturb_PoisonSpider_Blockdefence3;Venom Swarm;DoT. Block and Counter unavailable.
+15001247;effect;modify-ability-32;Assassin_Disturb_PoisonSpider_SpeedDown;Slow;Decreases Movement Speed.
+15001248;effect;modify-ability-431;Assassin_L4_Disturb_PoisonSpider_ReduceDefend;Venom Swarm;-20% Defense
+15001249;effect;modify-ability-430;Assassin_L4_Disturb_ShadowPenetration_ReduceDefend;Decreases Defense;-100% Defense
+15001250;effect;modify-ability-241;Assassin_Disturb_SmokeScreen_SPHealTransfer_1;Stealth;
+15001251;effect;modify-ability-241;Assassin_Disturb_SmokeScreen_SPHealTransfer_2;Stealth;
+15001252;effect;modify-ability-241;Assassin_Disturb_SmokeScreen_SPHealTransfer_3;Stealth;
+15001253;effect;smokescreen;Assassin_Disturb_SmokeScreen_HP_SP_Heal;Smokescreen;Resists Stun caused by parrying ranged attacks.
+15001254;effect;modify-ability-46;Assassin_Disturb_SmokeScreen_Smoke;Smokescreen;Visible range reduced.
+15001255;effect;smokescreen;Assassin_Disturb_SmokeScreen_Smokescreen;Smokescreen;Resists Stun caused by parrying ranged attacks.
+15001256;effect;smokescreen;Assassin_L4_Disturb_SmokeScreen_Smokescreen;Smokescreen;Resists Stun caused by parrying ranged attacks.
+15001257;effect;smokescreen;Assassin_S2_Disturb_SmokeScreen_Smokescreen;Smoke Shroud;Resists Stun caused by parrying ranged attacks.
+15001258;effect;hp-heal;Assassin_Disturb_SmokeScreen_Heal;Skill Effect;
+15001259;effect;stance;Assassin_L3_SmokeScreen_Hide_Stance_Immune;;
+15001260;effect;hide;Assassin_L3_Common_Hide_Passive_10;;
+15001261;effect;hide;Assassin_L3_Party_SmokeScreen_Hide_6sec;;
+15001262;effect;immune-debuff;Assassin_L3_SmokeScreen_Immune;;
+15001263;effect;melee-physical-attack;Assassin_L0_Disturb_Shuriken_Damage;;
+15001264;effect;melee-physical-attack;Assassin_L1_Disturb_Shuriken_Damage;;
+15001265;effect;melee-physical-attack;Assassin_L2_Disturb_Shuriken_Damage;;
+15001266;effect;melee-physical-attack;Assassin_L3_Disturb_Shuriken_Damage;;
+15001267;effect;melee-physical-attack;Assassin_L4_Disturb_Shuriken_Damage;;
+15001268;effect;melee-physical-attack;Assassin_L2_Disturb_Shuriken_Damage2;;
+15001269;effect;melee-physical-attack;Assassin_L3_Disturb_Shuriken_Damage2;;
+15001270;effect;melee-physical-attack;Assassin_L4_Disturb_Shuriken_Damage2;;
+15001271;effect;melee-physical-attack;Assassin_Disturb_PoisonShuriken_Damage;;
+15001272;effect;melee-physical-attack;Assassin_L0_Disturb_ShadowDance_Damage;;
+15001273;effect;melee-physical-attack;Assassin_L1_Disturb_ShadowDance_Damage;;
+15001274;effect;melee-physical-attack;Assassin_L2_Disturb_ShadowDance_Damage;;
+15001275;effect;melee-physical-attack;Assassin_L3_Disturb_ShadowDance_Damage;;
+15001276;effect;melee-physical-attack-drain;Assassin_L3_Disturb_ShadowDance_Drain;;
+15001277;effect;melee-physical-attack;Assassin_L3_Disturb_ShadowDance_Damage2;;
+15001278;effect;melee-physical-attack;Assassin_L3_Disturb_LightningDance_Damage;;
+15001279;effect;modify-ability-7;Assassin_Disturb_ShadowDance_Immune;;
+15001280;effect;modify-ability-7;Assassin_Disturb_ShadowDance_Immune_NotAdd;;
+15001281;effect;modify-ability-7;Assassin_Disturb_ShadowDance_Immune_Add;;
+15001282;effect;modify-ability-7;Assassin_Disturb_LightingDance_Immune;;
+15001283;effect;modify-ability-7;Assassin_Disturb_LightingDance_Immune_NotAdd;;
+15001284;effect;modify-ability-7;Assassin_Disturb_LightingDance_Immune_Add;;
+15001285;effect;melee-physical-attack;Assassin_Disturb_ShadowKick_Damage;;
+15001286;effect;modify-ability-19;Assassin_Disturb_SummonPoint_icon;Lotus of Escape;Escape Call available.
+15001287;effect;dispel-type;Assassin_Hide_SummonPoint_DispelIcon;;
+15001288;effect;modify-ability-1;Assassin_Disturb_SummonPoint_Combat;;
+15001289;effect;immune-debuff;Assassin_Hide_SummonPoint_Immune;;
+15001290;effect;unlink;Assassin_Hide_SummonPoint_Unlink;;
+15001291;effect;recall-to-position;Assassin_Disturb_SummonPoint_RtP_Friend;;
+15001292;effect;recall-to-caster;Assassin_Disturb_SummonPoint_RtC;;
+15001293;effect;help-restoration;Assassin_Disturb_SummonPoint_Help;;
+15001294;effect;hp-heal;Assassin_Disturb_Summon_HP_Heal1;Skill Effect;
+15001295;effect;modify-ability-19;Assassin_Disturb_RedSummonPoint_icon2;Lotus of Poison;Venom Call available.
+15001296;effect;kneel;Assassin_Disturb_RedSummonpoint_Kneel;;Paralyzed
+15001297;effect;modify-ability-19;Assassin_L3_SummonPoint_icon3;Lotus of Rescue;Rescue Call available.
+15001298;effect;modify-ability-39;Assassin_L3_SummonPoint_SpeedUP;Blink;Increases Movement Speed.
+15001299;effect;hide;Assassin_L3_SummonPoint_Hide;Stealth;
+15001300;effect;modify-ability-51;Assassin_L3_SummonPoint_friend_SkillCancel;;
+15001301;effect;modify-ability-199;Assassin_L3_SummonPoint_RtC_Immune;Stranded;Unable to move Locus of Illusion
+15001302;effect;immune-debuff;Assassin_L3_SummonPoint_Immune;;
+15001303;effect;hide;Assassin_L3_Party_Hide_Transe_3sec;Stealth;
+15001304;effect;hide;Assassin_L3_SummonPoint_Hide_3sec;Stealth;
+15001305;effect;melee-physical-attack;Assassin_Hide_LightningDagger_Damage;;
+15001306;effect;modify-ability-7;Assassin_L0_Disturb_SideStep_Immune;;
+15001307;effect;modify-ability-7;Assassin_L1_Disturb_SideStep_Immune;;
+15001308;effect;modify-ability-7;Assassin_L2_Disturb_SideStep_Immune;;
+15001309;effect;modify-ability-7;Assassin_L3_Disturb_SideStep_Immune;;
+15001310;effect;modify-ability-7;Assassin_L2_Disturb_SideStep_Long_Immune;;
+15001311;effect;modify-ability-7;Assassin_L3_Disturb_SideStep_Long_Immune;;
+15001312;effect;modify-ability-7;Assassin_L2_Disturb_SideStep_Right_Immune;;
+15001313;effect;modify-ability-7;Assassin_L3_Disturb_SideStep_Right_Immune;;
+15001314;effect;hide;Assassin_Disturb_Shunpo_Hide;Stealth;
+15001315;effect;modify-ability-7;Assassin_Disturb_Shunpo_Immune;;
+15001316;effect;tumbling;Assassin_Disturb_Shunpo_Tumbling;;
+15001317;effect;modify-ability-39;Assassin_Disturb_Shunpo_SpeedUP;Blink;Increases Movement Speed.
+15001318;effect;tumbling;Assassin_S2_1_Disturb_Shunpo_Tumbling;;
+15001319;effect;modify-ability-7;Assassin_S2_ShadowShunpo_Immune;;
+15001320;effect;modify-ability-7;Assassin_Disturb_BackStep_Immune;;
+15001321;effect;tumbling;Assassin_Disturb_BackStep_Tumbling;;
+15001322;effect;melee-physical-attack;Assassin_Disturb_ReplacePosition_Damage;;
+15001323;effect;cast-cancel;Assassin_Disturb_ReplacePosition_Cancel;;
+15001324;effect;desire-increase;Assassin_Disturb_ReplacePosition_Hate;;
+15001325;effect;modify-ability-53;Assassin_Disturb_ReplacePosition_Target;;
+15001326;effect;replace-position;Assassin_Disturb_ReplacePosition_Change;;
+15001327;effect;modify-ability-1;Assassin_Disturb_ReplacePosition_Caster;;
+15001328;effect;modify-ability-53;Assassin_S2_2_ReplacePosition_Target_Down;;
+15001329;effect;modify-ability-53;Assassin_S2_3_ReplacePosition_Target_Kneel;;
+15001330;effect;down;Assassin_S2_2_ReplacePosition_Down_2s;Knockdown;Paralyzed
+15001331;effect;kneel;Assassin_S2_2_ReplacePosition_Kneel_2s;Dazed;Paralyzed
+15001332;effect;modify-ability-32;Assassin_S2_1_ReplacePosition_Slosw_6s;Slow;Decreases Movement Speed.
+15001333;effect;melee-physical-attack;Assassin_Disturb_LeafDodge_Damage;;
+15001334;effect;modify-ability-148;Assassin_Disturb_LeafDodge_Flag;;
+15001335;effect;dispel-type;Assassin_Disturb_LeafDodge_Flag_Dispel;;
+15001336;effect;stagger;Assassin_Disturb_LeafDodge_Moveblock;;
+15001337;effect;kneel;Assassin_Disturb_LeafDodge_Kneel;Dazed;Paralyzed
+15001338;effect;modify-ability-54;Assassin_Disturb_Decapitation_Stun;;
+15001339;effect;dispel-type;Assassin_Disturb_Decapitation_DispelStun;;
+15001340;effect;modify-ability-67;Assassin_Disturb_Decapitation_Kneel;;Paralyzed
+15001341;effect;melee-physical-attack-drain;Assassin_Disturb_Decapitation_DamageDrain;;
+15001342;effect;tumbling;Assassin_Disturb_Decapitation_Tumbling;;
+15001343;effect;modify-ability-54;Assassin_Disturb_Decapitation_Stun_Big;;
+15001344;effect;dispel-type;Assassin_Disturb_Decapitation_DispelStun_Big;;
+15001345;effect;modify-ability-67;Assassin_Disturb_Decapitation_Kneel_Big;;Paralyzed
+15001346;effect;melee-physical-attack-drain;Assassin_Disturb_Decapitation_DamageDrain_Big;;
+15001347;effect;tumbling;Assassin_Disturb_Decapitation_Tumbling_Big;;
+15001348;effect;dispel-type;Assassin_Disturb_Decapitation_Dispel_Big;;
+15001349;effect;down;Assassin_Disturb_SpiderWeb_Down;Knockdown;Paralyzed
+15001350;effect;midair-1;Assassin_Disturb_SpiderWeb_Midair1;Airborne;Paralyzed
+15001351;effect;midair-2;Assassin_Disturb_SpiderWeb_Midair2;Airborne;Paralyzed
+15001352;effect;midair-3;Assassin_Disturb_SpiderWeb_Midair3;Airborne;Paralyzed
+15001353;effect;down;Assassin_CommonairDown;;
+15001354;effect;modify-ability-67;Assassin_spiderweb_airdetach;;
+15001355;effect;unlink;Assassin_Disturb_HideEscape_Catch_Unlink;;
+15001356;effect;unlink;Assassin_Disturb_HideEscape_Mount_Unlink;;
+15001357;effect;unlink;Assassin_Disturb_HideEscape_inhalation_Unlink;;
+15001358;effect;unlink;Assassin_Disturb_HideEscape_inhalation_NPC_Unlink;;
+15001359;effect;modify-ability-116;Assassin_Disturb_HideEscape_skillblock;;
+15001360;effect;modify-ability-32;Assassin_Disturb_HideEscape_Slow;Slow;Decreases Movement Speed.
+15001361;effect;flash;Assassin_Disturb_HideEscape_Flash;Blind;Disoriented.
+15001362;effect;stagger;Assassin_Disturb_HideEscape_Stun;;
+15001363;effect;tumbling;Assassin_Disturb_HideEscape_Tumbling;;
+15001364;effect;tumbling;Assassin_Disturb_Down_BackStep_Tumbling;;
+15001365;effect;melee-physical-attack;Assassin_Disturb_Link_Attack_Damage;;
+15001366;effect;unlink;Assassin_Disturb_Link_Escape_Catch_unlink;;
+15001367;effect;unlink;Assassin_Disturb_Link_Escape_Mount_unlink;;
+15001368;effect;unlink;Assassin_Disturb_Link_Escape_inhalation_unlink;;
+15001369;effect;unlink;Assassin_Disturb_Link_Escape_inhalation_NPC_unlink;;
+15001370;effect;modify-ability-4;Assassin_Disturb_Link_Escape_Immune;;
+15001371;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_Catch_damage1;;
+15001372;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_Mount_damage1;;
+15001373;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_inhalation_damage1;;
+15001374;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_inhalation_NPC_damage1;;
+15001375;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_Catch_damage2;;
+15001376;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_Mount_damage2;;
+15001377;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_inhalation_damage2;;
+15001378;effect;melee-physical-attack;Assassin_Disturb_Link_Escape_inhalation_NPC_damage2;;
+15001379;effect;modify-ability-30;Assassin_Disturb_Link_Escape_Catch_stun;;
+15001380;effect;modify-ability-30;Assassin_Disturb_Link_Escape_Mount_stun;;
+15001381;effect;modify-ability-30;Assassin_Disturb_Link_Escape_inhalation_stun;;
+15001382;effect;modify-ability-30;Assassin_Disturb_Link_Escape_inhalation_NPC_stun;;
+15001383;effect;dispel-type;Assassin_Disturb_ShurikenBurst_Dispel;;
+15001384;effect;modify-ability-6;Assassin_Disturb_ShurikenBurst_Flag;;
+15001385;effect;down;Assassin_Disturb_ShurikenBurst_DownAgain;Knockdown;Paralyzed
+15001386;effect;melee-physical-attack;Assassin_Disturb_ShurikenBurst_Damage;;
+15001387;effect;modify-ability-32;Assassin_Disturb_ShurikenBurst_Speed;Slow;Decreases Movement Speed.
+15001388;effect;down;Assassin_Disturb_ShadowMove_Down;Knockback;Paralyzed
+15001389;effect;down;Assassin_Disturb_ShadowMove_Down_2;Knockback;Paralyzed
+15001390;effect;defence;Assassin_Disturb_ShadowMove_Counter_detection;Stealth Protection Effect;
+15001391;effect;stun;Assassin_Disturb_ShadowMove_Counter_Stun;Stun;Paralyzed
+15001392;effect;melee-physical-attack;Assassin_Hide_HideKick_Damage;;
+15001393;effect;knockback;Assassin_Hide_HideKick_Knockback;Knockback;Paralyzed
+15001394;effect;knockback;Assassin_S0_Hide_HideKick_Knockback;Knockback;Paralyzed
+15001395;effect;melee-physical-attack;Assassin_L0_Disturb_ShadowSlash_Damage;;
+15001396;effect;melee-physical-attack;Assassin_L1_Disturb_ShadowSlash_Damage;;
+15001397;effect;melee-physical-attack;Assassin_L2_Disturb_ShadowSlash_Damage;;
+15001398;effect;melee-physical-attack;Assassin_L2_Disturb_ShadowSlash_Damage_Add;;
+15001399;effect;melee-physical-attack;Assassin_L3_Disturb_ShadowSlash_Damage;;
+15001400;effect;melee-physical-attack;Assassin_L3_Disturb_ShadowSlash_Damage_Add;;
+15001401;effect;melee-physical-attack;Assassin_L4_Disturb_ShadowSlash_Damage;;
+15001402;effect;melee-physical-attack;Assassin_L4_Disturb_ShadowSlash_Damage_Add;;
+15001403;effect;melee-physical-attack;Assassin_L5_Disturb_ShadowSlash_Damage;;
+15001404;effect;melee-physical-attack;Assassin_L5_Disturb_ShadowSlash_Damage_Add;;
+15001405;effect;melee-physical-attack;Assassin_L5_2_Disturb_ShadowSlash_Damage;;
+15001406;effect;melee-physical-attack;Assassin_L5_2_Disturb_ShadowSlash_Damage_Add;;
+15001407;effect;melee-physical-attack;Assassin_L3_Disturb_PoisonSlash_Damage;;
+15001408;effect;melee-physical-attack;Assassin_L4_Disturb_PoisonSlash_Damage;;
+15001409;effect;melee-physical-attack;Assassin_L5_Disturb_PoisonSlash_Damage;;
+15001410;effect;melee-physical-attack;Assassin_L5_Disturb_PoisonSlash_Damage_Add;;
+15001411;effect;modify-ability-156;Assassin_S0_3_Disturb_ShadowSlash_Add_CastFlag;;
+15001412;effect;down;Assassin_L2_Disturb_ShadowSlash_Down;Knockdown;Paralyzed
+15001413;effect;down;Assassin_L3_Disturb_ShadowSlash_Down;Knockdown;Paralyzed
+15001414;effect;melee-physical-attack;Assassin_L2_Disturb_ShadowSlash_Damage2;;
+15001415;effect;melee-physical-attack;Assassin_L3_Disturb_ShadowSlash_Damage2;;
+15001416;effect;modify-ability-22;Assassin_Hide_Mine_Icon;Landmine;Detonation available.
+15001417;effect;dispel-type;Assassin_Hide_Mine_Dispel;;
+15001418;effect;down;Assassin_L0_Hide_Mine_Down;Knockdown;Paralyzed
+15001419;effect;down;Assassin_L1_Hide_Mine_Down;Knockdown;Paralyzed
+15001420;effect;down;Assassin_L2_Hide_Mine_Down;Knockdown;Paralyzed
+15001421;effect;melee-physical-attack;Assassin_L4_Hide_Mine_AddDamage;;
+15001422;effect;kneel;Assassin_L2_Hide_Mine_Kneel;Knockdown;Paralyzed
+15001423;effect;midair-1;Assassin_L4_Hide_Mine_Air1;Airborne;Paralyzed
+15001424;effect;modify-ability-32;Assassin_L3_Mine_Slow_8s;Slow;Decreases Movement Speed.
+15001425;effect;melee-physical-attack;Assassin_L2_ThrowMine_Damage;;
+15001426;effect;melee-physical-attack;Assassin_L3_ThrowMine_Damage;;
+15001427;effect;melee-physical-attack;Assassin_L3_ThrowMine_Damage_Add;;
+15001428;effect;melee-physical-attack;Assassin_L4_ThrowMine_Damage;;
+15001429;effect;melee-physical-attack;Assassin_L4_ThrowMine_Damage_Add;;
+15001430;effect;fast-freezing;Assassin_L3_Hide_IceMine_fastfreezing;Frost Prison;Unable to move or use skills.<br/>Resists all damage and status effects.
+15001431;effect;fast-freezing;Assassin_L4_Hide_IceMine_fastfreezing;Frost Prison;Unable to move or use skills.<br/>Resists all damage and status effects.
+15001432;effect;melee-physical-attack;Assassin_Trampledown_Damage;;
+15001433;effect;immune-debuff;Assassin_Disturb_LightningKick_Immune;Resistance;Resists up to 3 enemy attacks.
+15001434;effect;melee-physical-attack;Assassin_Disturb_MoveParry_Damage;;
+15001435;effect;dispel-type;Assassin_Disturb_MoveParry_Dispel;;
+15001436;effect;knockback;Assassin_Disturb_MoveParry_Knockback;Stun;Paralyzed
+15001437;effect;tumbling;Assassin_Disturb_MoveParry_Tumbling;;
+15001438;effect;defence-block;Assassin_Disturb_MoveParry_Defenceblock;Blocks Defensive skills;Block and Counter skills unavailable
+15001439;effect;stun;Assassin_Disturb_MoveParry_Stun;Stun;Paralyzed
+15001440;effect;stun;Assassin_Common_Stun_2s;Stun;Paralyzed
+15001441;effect;stun;Assassin_Common_Stun_2s_NOT_UNION;Stun;Paralyzed
+15001442;effect;midair-1;Assassin_Hide_MidAir_Lv1_Air;Airborne;Paralyzed
+15001443;effect;stance;Assassin_Common_Reveal_Stance;;
+15001444;effect;dispel-attribute;Assassin_Common_Reveal_Reveal;;
+15001445;effect;stance;Assassin_Common_Disturb_Stance;;
+15001446;effect;stance;Assassin_Common_Hide_Stance;;
+15001447;effect;hide;Assassin_Common_Hide_Passive;;
+15001448;effect;hide;Assassin_Common_Hide_Passive_2s;;
+15001449;effect;hide;Assassin_Common_Hide;Stealth;
+15001450;effect;hide;Assassin_Common_Hide_15s;Stealth;
+15001451;effect;sp-heal;Assassin_Common_SP_Heal_1;;
+15001452;effect;sp-heal;Assassin_Common_SP_Heal_2;;
+15001453;effect;sp-heal;Assassin_Common_SP_Heal_3;;
+15001454;effect;sp-heal;Assassin_Common_SP_Heal_4;;
+15001455;effect;sp-heal;Assassin_Common_SP_Heal_5;;
+15001456;effect;sp-heal;Assassin_Common_SP_Heal_6;;
+15001457;effect;sp-heal;Assassin_Common_SP_Heal_7;;
+15001458;effect;sp-heal;Assassin_Common_SP_Charge30p;;
+15001459;effect;sp-heal;Assassin_Common_SP_Charge100p;;
+15001460;effect;hp-heal;Assassin_Common_HP_Heal_1;Skill Effect;
+15001461;effect;hp-heal;Assassin_Common_HP_Heal_2;Skill Effect;
+15001462;effect;hp-heal;Assassin_Common_HP_Heal_3;Skill Effect;
+15001463;effect;hp-heal;Assassin_Common_HP_Heal_4;Skill Effect;
+15001464;effect;hp-heal;Assassin_Common_HP_Heal_5;Skill Effect;
+15001465;effect;modify-ability-1;Assassin_Common_MoveBlock_100ms;;
+15001466;effect;modify-ability-1;Assassin_Common_MoveBlock_200ms;;
+15001467;effect;modify-ability-1;Assassin_Common_MoveBlock_300ms;;
+15001468;effect;modify-ability-1;Assassin_Common_MoveBlock_400ms;;
+15001469;effect;modify-ability-1;Assassin_Common_MoveBlock_500ms;;
+15001470;effect;modify-ability-1;Assassin_Common_MoveBlock_600ms;;
+15001471;effect;modify-ability-1;Assassin_Common_MoveBlock_700ms;;
+15001472;effect;modify-ability-1;Assassin_Common_MoveBlock_800ms;;
+15001473;effect;modify-ability-1;Assassin_Common_MoveBlock_900ms;;
+15001474;effect;modify-ability-1;Assassin_Common_MoveBlock_1000ms;;
+15001475;effect;modify-ability-1;Assassin_Common_MoveBlock_1500ms;;
+15001476;effect;dispel-attribute;Assassin_Common_MoveDispel;;
+15001477;effect;dispel-type;Assassin_Common_Tumbling_Dispel;;
+15001478;effect;dispel-type;Assassin_Common_MoveBlock_Dispel;;
+15001479;effect;modify-ability-7;Assassin_Common_Immune_100ms;;
+15001480;effect;modify-ability-7;Assassin_Common_Immune_200ms;;
+15001481;effect;modify-ability-7;Assassin_Common_Immune_300ms;;
+15001482;effect;modify-ability-7;Assassin_Common_Immune_400ms;;
+15001483;effect;modify-ability-7;Assassin_Common_Immune_500ms;;
+15001484;effect;modify-ability-7;Assassin_Common_Immune_600ms;;
+15001485;effect;modify-ability-7;Assassin_Common_Immune_700ms;;
+15001486;effect;modify-ability-7;Assassin_Common_Immune_800ms;;
+15001487;effect;modify-ability-7;Assassin_Common_Immune_900ms;;
+15001488;effect;modify-ability-7;Assassin_Common_Immune_1000ms;;
+15001489;effect;modify-ability-7;Assassin_Common_Immune_1500ms;;
+15001490;effect;modify-ability-7;Assassin_Common_Immune_binding_100ms;;
+15001491;effect;modify-ability-7;Assassin_Common_Immune_binding_200ms;;
+15001492;effect;modify-ability-7;Assassin_Common_Immune_binding_300ms;;
+15001493;effect;modify-ability-7;Assassin_Common_Immune_binding_400ms;;
+15001494;effect;modify-ability-7;Assassin_Common_Immune_binding_500ms;;
+15001495;effect;modify-ability-7;Assassin_Common_Immune_binding_600ms;;
+15001496;effect;modify-ability-7;Assassin_Common_Immune_binding_700ms;;
+15001497;effect;modify-ability-7;Assassin_Common_Immune_binding_800ms;;
+15001498;effect;modify-ability-7;Assassin_Common_Immune_binding_900ms;;
+15001499;effect;modify-ability-7;Assassin_Common_Immune_binding_1000ms;;
+15001500;effect;modify-ability-7;Assassin_Base_CommandSkill_Left_Immune;;
+15001501;effect;modify-ability-7;Assassin_Base_CommandSkill_Right_Immune;;
+15001502;effect;modify-ability-7;Assassin_Base_CommandSkill_Back_Immune;;
+15001503;effect;modify-ability-7;Assassin_Base_MartialDance_Immune_CC_binding_1600ms;;
+15001504;effect;poison;Assassin_Poison_Lv1;Venom;Poison DoT.
+15001505;effect;poison;Assassin_Poison_Lv2;Venom;Poison DoT.
+15001506;effect;poison;Assassin_Poison_Lv3;Venom;Poison DoT.
+15001507;effect;poison;Assassin_Poison_Lv4;Venom;Poison DoT.
+15001508;effect;poison;Assassin_Poison_Lv5;Venom;Poison DoT.
+15001509;effect;modify-ability-230;Assassin_Disturb_WoodBlock_Defend_CastFlag;;
+15001510;effect;modify-ability-230;Assassin_Disturb_WoodBlock_Defend_CastFlag_cancle;;
+15001511;effect;modify-ability-150;Assassin_Disturb_WoodBlock_Defend_Immune_1s;;
+15001512;effect;immune-debuff;Assassin_Disturb_WoodBlock_Counter_Immune_1s;Resistance;Resists up to 3 enemy attacks.
+15001513;effect;modify-ability-150;Assassin_Disturb_WoodBlock_Defend_Immune_2s;;
+15001514;effect;immune-debuff;Assassin_Disturb_WoodBlock_Counter_Immune_2s;Resistance;Resists up to 3 enemy attacks.
+15001515;effect;modify-ability-155;Assassin_Disturb_WoodBlock_Counter_Camera;;
+15001516;effect;defence;Assassin_Disturb_WoodBlock_Counter_detection;Stealth Protection Effect;
+15001517;effect;defence;Assassin_Disturb_WoodBlock_Counter_detection2;Stealth Protection Effect;
+15001518;effect;additional-hp;Assassin_Disturb_WoodBlock_Counter_Additional_Hp_5per;Recovery;
+15001519;effect;additional-hp;Assassin_Disturb_WoodBlock_Counter_Additional_Hp_5per_2;Recovery;
+15001520;effect;dispel-type;Assassin_Disturb_WoodBlock_Counter_Shield_Dispel;;
+15001521;effect;modify-ability-67;Assassin_Disturb_WoodBlock_CounterKneel;Stealth Protection Effect;
+15001522;effect;kneel;Assassin_Disturb_WoodBlock_Kneel;Dazed;Paralyzed
+15001523;effect;sp-damage;Assassin_Disturb_WoodBlock_SPDamage_40p;;
+15001524;effect;hp-heal;Assassin_Disturb_WoodBlock_HP_Heal1;Skill Effect;
+15001525;effect;hp-heal;Assassin_Disturb_WoodBlock_HP_Heal2;Skill Effect;
+15001526;effect;hp-heal;Assassin_Disturb_WoodBlock_HP_Heal3;Skill Effect;
+15001527;effect;modify-ability-80;Assassin_Disturb_WoodBlock_Defend;Stealth Protection Effect;When hit, Resist and Stealth for 6 sec.
+15001528;effect;modify-ability-80;Assassin_Disturb_WoodBlock_Defend_Lv1;Stealth Protection Effect;When hit, Resist and Stealth for 6 sec.
+15001529;effect;modify-ability-80;Assassin_Disturb_WoodBlock_Defend_Lv2;Stealth Protection Effect;When hit, Resist and Stealth for 6 sec.
+15001530;effect;modify-ability-80;Assassin_Disturb_WoodBlock_Defend_Lv3;Stealth Protection Effect;When hit, Resist and Stealth for 6 sec.
+15001531;effect;hide;Assassin_Disturb_WoodBlock_Defend_Hide_Exhaustion;Stealth Protection Effect;
+15001532;effect;hide;Assassin_Disturb_WoodBlock_Defend_Hide_Friend;;
+15001533;effect;hide;Assassin_S0_3_WoodBlock_Defend_Hide_Assassin;Stealth Protection Effect;
+15001534;effect;modify-ability-122;Assassin_S0_3_WoodBlock_Defend_PartyImmune;Resistance;Resists up to 3 enemy attacks.
+15001535;effect;modify-ability-9;Assassin_Immune_Physical_Abnormal_100ms;;
+15001536;effect;dispel-type;Assassin_Disturb_Dispel_DispelDashBlock;;
+15001537;effect;dispel-type;Assassin_Disturb_Dispel_DispelDashBlock2;;
+15001538;effect;dispel-type;Assassin_Disturb_Dispel_DispelDashBlock3;;
+15001539;effect;dispel-type;Assassin_Common_dispelStun;;
+15001540;effect;dispel-type;Assassin_Common_dispelKneel;;
+15001541;effect;dispel-type;Assassin_Common_dispelDown;;
+15001542;effect;dispel-type;Assassin_Common_dispelSwoon;;
+15001543;effect;dispel-attribute;Assassin_Common_StunAttributeDispel;;
+15001544;effect;dispel-attribute;Assassin_Common_Dispel_All;;
+15001545;effect;dispel-attribute;Assassin_Common_Dispel_All2;;
+15001546;effect;dispel-attribute;Assassin_Common_Dispel_All3;;
+15001547;effect;modify-ability-560;Assassin_Common_Shadow_1s;Shadow Walker;Decreases movement speed and blocks approach skills
+15001548;effect;modify-ability-560;Assassin_Common_Shadow_2s;Shadow Walker;Decreases movement speed and blocks approach skills
+15001549;effect;modify-ability-560;Assassin_Common_Shadow_3s;Shadow Walker;Decreases movement speed and blocks approach skills
+15001550;effect;modify-ability-560;Assassin_Common_Shadow_6s;Shadow Walker;Decreases movement speed and blocks approach skills
+15001551;effect;modify-ability-560;Assassin_Common_Shadow_8s;Shadow Walker;Decreases movement speed and blocks approach skills
+15001552;effect;modify-ability-560;Assassin_Common_Shadow_12s;Shadow Walker;Decreases movement speed and blocks approach skills
+15001553;effect;fluctuation-time-effect;Assassin_Common_Shadow_1s_fluctuation;Shadow Walker;
+15001554;effect;modify-ability-32;Assassin_Common_ShadowSlow_2s;Slow;Decreases Movement Speed.
+15001555;effect;modify-ability-32;Assassin_Common_ShadowSlow_3s;Slow;Decreases Movement Speed.
+15001556;effect;modify-ability-32;Assassin_Common_ShadowSlow_6s;Slow;Decreases Movement Speed.
+15001557;effect;modify-ability-32;Assassin_Common_ShadowSlow_8s;Slow;Decreases Movement Speed.
+15001558;effect;modify-ability-32;Assassin_Common_ShadowSlow_12s;Slow;Decreases Movement Speed.
+15001559;effect;sp-damage;Assassin_Common_SPDamage_10p;;
+15001560;effect;sp-damage;Assassin_Common_SPDamage_20p;;
+15001561;effect;sp-damage;Assassin_Common_SPDamage_30p;;
+15001562;effect;sp-damage;Assassin_Common_SPDamage_40p;;
+15001563;effect;modify-ability-64;Assassin_Disturb_ShadowShuriken_Flag2;Shadow Shuriken;Throwing Dagger unavailable.
+15001564;effect;dispel-type;Assassin_Disturb_ShadowShuriken_DispelFlag2;;
+15001565;effect;modify-ability-66;Assassin_Disturb_ShadowShuriken_Flag;Wind Rush;Bound by Shuriken. -30% Movement Speed
+15001566;effect;dispel-type;Assassin_Disturb_ShadowShuriken_DispelFlag;;
+15001567;effect;modify-ability-17;Assassin_Disturb_LightningShuriken_Flag2;High Voltage Shuriken;High Voltage Shuriken unavailable.
+15001568;effect;dispel-type;Assassin_Disturb_LightningShuriken_DispelFlag2;;
+15001569;effect;modify-ability-153;Assassin_Disturb_LightningShuriken_Flag;Goldtalon;Use High Voltage Shuriken to apply Goldtalon. -30% Movement Speed
+15001570;effect;dispel-type;Assassin_Disturb_LightningShuriken_DispelFlag;;
+15001571;effect;melee-physical-attack;Assassin_L0_ShadowShuriken_Damage;;
+15001572;effect;melee-physical-attack;Assassin_L0_ShadowCatch_Damage;;
+15001573;effect;melee-physical-attack;Assassin_L0_LightningShuriken_Damage;;
+15001574;effect;melee-physical-attack;Assassin_L2_LightningCatch_Damage;;
+15001575;effect;melee-physical-attack;Assassin_L3_LightningCatch_Damage;;
+15001576;effect;melee-physical-attack;Assassin_L2_LightningCatch_Damage2;;
+15001577;effect;melee-physical-attack;Assassin_L3_LightningCatch_Damage2;;
+15001578;effect;flash;Assassin_S1_ShadowCatch_Flash;Blind;Disoriented.
+15001579;effect;down;Assassin_Common_Down_3s;Knockdown;Paralyzed
+15001580;effect;down;Assassin_Common_Down_2s;Knockdown;Paralyzed
+15001581;effect;kneel;Assassin_L2_ShadowCatch_Kneel;Dazed;Paralyzed
+15001582;effect;kneel;Assassin_L3_ShadowCatch_Kneel;Dazed;Paralyzed
+15001583;effect;modify-ability-1;Assassin_Disturb_ShadowCatch_Moveblock;;
+15001584;effect;modify-ability-32;Assassin_Disturb_ShadowShuriken_Slow;Slow;Decreases Movement Speed.
+15001585;effect;modify-ability-32;Assassin_Disturb_ShadowShuriken_Slow2;Slow;Decreases Movement Speed.
+15001586;effect;modify-ability-32;Assassin_Disturb_ShadowShuriken_Slow3;Slow;Decreases Movement Speed.
+15001587;effect;modify-ability-17;Assassin_G3_ShadowWarp_Lv1_Flag;Umbral Leap;Umbral Leap available
+15001588;effect;dispel-type;Assassin_G3_ShadowWarp_Lv1_Dispel_Flag;;
+15001589;effect;kneel;Assassin_G3_Disturb_ShadowWarp_Lv1_Kneel;Dazed;Paralyzed
+15001590;effect;modify-ability-114;Assassin_S2_ShadowMark_1;Phantom Mark;Some skills available due to consumption
+15001591;effect;modify-ability-114;Assassin_S2_ShadowMark_2;Phantom Mark;Some skills available due to consumption
+15001592;effect;modify-ability-114;Assassin_S2_ShadowMark_3;Phantom Mark;Some skills available due to consumption
+15001593;effect;modify-ability-114;Assassin_S2_ShadowMark_5;Phantom Mark;Some skills available due to consumption
+15001594;effect;modify-ability-114;Assassin_S2_ShadowMark_6;Phantom Mark;Some skills available due to consumption
+15001595;effect;modify-ability-114;Assassin_S2_ShadowMark_10;Phantom Mark;Some skills available due to consumption
+15001596;effect;modify-ability-114;Assassin_S2_ShadowMark_Minus_2;Phantom Mark;Some skills available due to consumption
+15001597;effect;modify-ability-114;Assassin_S2_ShadowMark_Minus_3;Phantom Mark;Some skills available due to consumption
+15001598;effect;dispel-type;Assassin_S2_ShadowMark_Dispel;;
+15001599;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_1_Damage;;
+15001600;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_2_Damage;;
+15001601;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_3_Damage;;
+15001602;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_1_Damage_Add;;
+15001603;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_2_Damage_Add;;
+15001604;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_3_Damage_Add;;
+15001605;effect;melee-physical-attack;Assassin_S2_AbyssSlash_Shadow_Damage;;
+15001606;effect;melee-physical-attack;Assassin_S2_AbyssSlash_Shadow_Damage_Add;;
+15001607;effect;melee-physical-attack;Assassin_S2_2_AbyssSlash_Shadow_Damage;;
+15001608;effect;melee-physical-attack;Assassin_S2_2_AbyssSlash_Shadow_Damage_Add;;
+15001609;effect;melee-physical-attack;Assassin_S2_3_AbyssSlash_Shadow_Damage;;
+15001610;effect;melee-physical-attack;Assassin_S2_Disturb_AbyssSlash_Range_Damage;;
+15001611;effect;melee-physical-attack;Assassin_S2_ShadowSteam_Damage;;
+15001612;effect;melee-physical-attack;Assassin_S2_2_ShadowSteam_Damage_Add;;
+15001613;effect;melee-physical-attack;Assassin_S2_3_ShadowSteam_Damage;;
+15001614;effect;modify-ability-46;Assassin_S2_SmokeScreen_Smoke;;Visible range reduced.
+15001615;effect;smokescreen;Assassin_S2_SmokeScreen_Smokescreen;;Resists Stun caused by parrying ranged attacks.
+15001616;effect;melee-physical-attack;Assassin_S2_1_ShadowShuriken_Damage;;
+15001617;effect;melee-physical-attack;Assassin_S2_2_ShadowShuriken_Damage;;
+15001618;effect;midair-1;Assassin_S1_WindKick_Air1;Airborne;
+15001619;effect;melee-physical-attack;Assassin_S1_WindKick_Damage;;
+15001620;effect;melee-physical-attack;Assassin_S2_ShadowDance_show1;;
+15001621;effect;melee-physical-attack;Assassin_S2_ShadowDance_show2;;
+15001622;effect;melee-physical-attack;Assassin_S2_ShadowDance_show3;;
+15001623;effect;melee-physical-attack;Assassin_S2_ShadowDance_show4;;
+15001624;effect;melee-physical-attack;Assassin_S2_ShadowDance_show5;;
+15001625;effect;melee-physical-attack;Assassin_S2_ShadowDance_Damage;;
+15001626;effect;melee-physical-attack;Assassin_S2_3_ShadowDance_Damage;;
+15001627;effect;knockback;Assassin_Knockback_5m_down;Knockback;Paralyzed
+15001628;effect;melee-physical-attack;Assassin_S1_Newmoonkick_Damage;;
+15001629;effect;melee-physical-attack;Assassin_S2_WindBluster_Damage;;
+15001630;effect;melee-physical-attack;Assassin_S2_3_WindBluster_Damage;;
+15001631;effect;down;Assassin_S2_WindBluster_Down;Knockdown;Paralyzed
+15001632;effect;midair-1;Assassin_S2_WindBluster_Air1;Airborne;
+15001633;effect;melee-physical-attack;Assassin_S2_1_ShadowScud_Damage;;
+15001634;effect;melee-physical-attack;Assassin_S2_1_ShadowScud_Damage_Add;;
+15001635;effect;melee-physical-attack;Assassin_S2_2_ShadowScud_Damage;;
+15001636;effect;melee-physical-attack;Assassin_S2_3_ShadowScud_Damage;;
+15001637;effect;melee-physical-attack;Assassin_S2_3_ShadowScud_Damage_Add1;;
+15001638;effect;melee-physical-attack;Assassin_S2_3_ShadowScud_Damage_Add2;;
+15001639;effect;melee-physical-attack;Assassin_S2_3_ShadowScud_Damage_Add3;;
+15001640;effect;modify-ability-1;Assassin_L0_VanishingStep_Caster_Moveblock;;
+15001641;effect;stagger;Assassin_L0_VanishingStep_Moveblock;;
+15001642;effect;melee-physical-attack;Assassin_L0_VanishingStep_Damage;;
+15001643;effect;tumbling;Assassin_L0_VanishingStep_Tumbling;;
+15001644;effect;modify-ability-32;Assassin_L0_VanishingStep_Slow;Slow;Decreases Movement Speed.
+15001645;effect;flash;Assassin_L0_VanishingStep_Flash;Blind;Disoriented.
+15001646;effect;melee-physical-attack;Assassin_S2_ShadowSlash_Range_Damage;;
+15001647;effect;melee-physical-attack;Assassin_S2_ShadowSlash_Range_Shadow_Damage;;
+15001648;effect;melee-physical-attack;Assassin_S2_ShadowSlash_Range_Shadow_Damage_Add;;
+15001649;effect;melee-physical-attack;Assassin_S2_ShadowSlash_Range_Show;;
+15001650;effect;melee-physical-attack;Assassin_S2_ShadowSlash_Range_Show2;;
+15001651;effect;melee-physical-attack;Assassin_S2_2_ShadowSlash_Range_Damage;;
+15001652;effect;melee-physical-attack;Assassin_S2_2_ShadowSlash_Range_Shadow_Damage;;
+15001653;effect;melee-physical-attack;Assassin_S2_2_ShadowSlash_Range_Shadow_Damage_Add;;
+15001654;effect;melee-physical-attack;Assassin_S2_3_ShadowSlash_Range_Damage;;
+15001655;effect;melee-physical-attack;Assassin_S2_3_ShadowSlash_Range_Shadow_Damage;;
+15001656;effect;melee-physical-attack;Assassin_S2_3_ShadowSlash_Range_Shadow_Damage_Add;;
+15001657;effect;modify-ability-39;Assassin_S2_ShadowNight_SpeedUP_50;Blink;Increases Movement Speed.
+15001658;effect;hp-heal;Assassin_S2_ShadowNight_dummy;;
+15001659;effect;modify-ability-432;Assassin_S2_Detach_NightDome;;
+15001660;effect;modify-ability-151;Assassin_S2_ShadowNight_NightDome_2000ms;;
+15001661;effect;modify-ability-427;Assassin_S2_ShadowNight_Flag;Depth of Shadows;Chains
+15001662;effect;modify-ability-151;Assassin_S2_ShadowNight_NightDome_Dispel;;
+15001663;effect;modify-ability-13;Assassin_S2_ShadowNight_ShadowSlash_Flag;;
+15001664;effect;melee-physical-attack;Assassin_S2_1_ShadowNight_Damage;;
+15001665;effect;melee-physical-attack;Assassin_S2_2_ShadowNight_Damage;;
+15001666;effect;melee-physical-attack;Assassin_S2_3_ShadowNight_Damage;;
+15001667;effect;modify-ability-160;Assassin_S2_2_ShadowNight_DefencePower_Up;Defense Increase;Defense +400%.
+15001668;effect;modify-ability-157;Assassin_S2_2_ShadowNight_Immune_Abnormal_2200ms;Immunity;Immune to Stun, Daze, Knockback, and Knockdown.
+15001669;effect;dispel-type;Assassin_S2_2_ShadowNight_Immune_Abnormal_Dispel;;
+15001670;effect;modify-ability-189;Assassin_S1_WoodBlock_Critical_Percent;Critical Rate Bonus;+2% Attack Power (stacks up to 3 times)
+15001671;effect;dispel-type;Assassin_S1_WoodBlock_Critical_Percent_Dispel;;
+15001672;effect;modify-ability-143;Assassin_Disturb_PoisonShuriken_Flag;;Throwing Dagger unavailable.
+15001673;effect;dispel-type;Assassin_Disturb_PoisonShuriken_Flag_Dispel;;
+15001674;effect;modify-ability-188;Assassin_S1_BloodThirst_Stack;Murderous Intent;Triggers Bloodthirst effect for 10 sec. on 10 Murderous Intent stacks
+15001675;effect;modify-ability-188;Assassin_S1_BloodThirst_Stack_2;Murderous Intent;Triggers Bloodthirst effect for 10 sec. on 10 Murderous Intent stacks
+15001676;effect;modify-ability-188;Assassin_S1_BloodThirst_Stack_5;Murderous Intent;Triggers Bloodthirst effect for 10 sec. on 10 Murderous Intent stacks
+15001677;effect;modify-ability-188;Assassin_S1_BloodThirst;Bloodthirst;Lightning Pierce available.
+15001678;effect;modify-ability-152;Assassin_S2_AbyssSlash_Flag;;
+15001679;effect;dispel-type;Assassin_S2_AbyssSlash_Flag_Dispel;;
+15001680;effect;modify-ability-236;Assassin_L3_Disturb_RapidCooling_PartyBuff;Tricore;Limit Breaker<br/>+40% Critical Rate<br/>30% Drain of inflicted Damage
+15001681;effect;modify-ability-236;Assassin_L4_Disturb_RapidCooling_PartyBuff;Tricore;Limit Breaker<br/>+50% Critical Rate<br/>+50% Critical Damage<br/>Drains 30% of Attack Power
+15001682;effect;melee-physical-attack-drain;Assassin_Disturb_RapidCooling_HpDrain;;
+15001683;effect;modify-ability-236;Assassin_L3_Disturb_RapidCooling_PersonalBuff;Concentration;Limit Breaker<br/>+40% Critical Damage<br/>Drains 60% of Attack Power
+15001684;effect;modify-ability-236;Assassin_L4_Disturb_RapidCooling_PersonalBuff;Concentration;Limit Breaker<br/>+80% Critical Damage
+15001685;effect;melee-physical-attack-drain;Assassin_Disturb_RapidCooling_HpDrain2;;
+15001686;effect;modify-ability-237;Assassin_RapidCooling_Immune;Resists Amplification;Cannot receive Amplification effect from Bad Blood
+15001687;effect;modify-ability-190;Assassin_S1_Reduce_HealPower;Deep Wound;-50% Recovery
+15001688;effect;knockback;Assassin_S2_KnockBack;Knockback;Knocked back
+15001689;effect;dispel-type;Assassin_Common_dispel_midair1;;
+15001690;effect;dispel-type;Assassin_Common_dispel_swoon;;
+15001691;effect;dispel-type;Assassin_Common_dispel_down;;
+15001692;effect;dispel-type;Assassin_Common_dispel_stun;;
+15001693;effect;dispel-type;Assassin_Common_dispel_kneel;;
+15001694;effect;dispel-type;Assassin_Common_dispel_midair2;;
+15001695;effect;dispel-type;Assassin_Common_Dispel_Midair3;;
+15001696;effect;modify-ability-210;Assassin_Common_MoveBlock_1100ms;Shadow Snare;Immobilized.<br/>Feet are snared by a shadow.
+15001697;effect;modify-ability-210;Assassin_Common_MoveBlock_3000ms;Shadow Snare;Immobilized.<br/>Feet are snared by a shadow.
+15001698;effect;modify-ability-210;Assassin_Common_MoveBlock_4000ms;Shadow Snare;Immobilized.<br/>Feet are snared by a shadow.
+15001699;effect;modify-ability-210;Assassin_Common_MoveBlock_6000ms;Shadow Snare;Immobilized.<br/>Feet are snared by a shadow.
+15001700;effect;modify-ability-210;Assassin_Common_MoveBlock_8000ms;Shadow Snare;Immobilized.<br/>Feet are snared by a shadow.
+15001701;effect;dispel-attribute;Assassin_Common_Dispel_MoveBlock;;
+15001702;effect;dispel-type;Assassin_Common_Dispel_Tumbling;;
+15001703;effect;modify-ability-32;Assassin_S2_ShadowShuriken_Slow_6s;Slow;Decreases Movement Speed.
+15001704;effect;interval-sp-heal;Assassin_S2_interval_sp_heal_6;;Recovers Focus per sec.
+15001705;effect;modify-recycle-time;Assassin_S2_ShadowShuriken_RecycleTime_Up;;
+15001706;effect;melee-physical-attack;Assassin_S2_1_ShadowShackles_Damage;;
+15001707;effect;melee-physical-attack;Assassin_S2_2_ShadowShackles_Damage;;
+15001708;effect;melee-physical-attack;Assassin_S2_3_ShadowShackles_Damage;;
+15001709;effect;modify-ability-145;Assassin_S2_2_ShadowSoul_immune;Shadow Armor;Resists Damage and status effects<br/>Focus Damage for every hit to attacking opponents
+15001710;effect;interval-sp-heal;Assassin_S2_interval_sp_heal_9;;Recovers Focus per sec.
+15001711;effect;time-bomb;Assassin_L0_Hide_TimeBomb_Bomb;Time Bomb;Detonates in 7 sec.
+15001712;effect;time-bomb;Assassin_L1_Hide_TimeBomb_Bomb;Time Bomb;Detonates in 7 sec.
+15001713;effect;time-bomb;Assassin_L2_Hide_TimeBomb_Bomb_poison3Stack;Time Bomb;Detonates in 7 sec.
+15001714;effect;time-bomb;Assassin_L3_Hide_TimeBomb_Bomb_poisonFullStack;Time Bomb;Detonates in 7 sec.
+15001715;effect;time-bomb;Assassin_L4_Hide_TimeBomb_Bomb_poisonFullStack;Time Bomb;Detonates in 7 sec.
+15001716;effect;time-bomb;Assassin_L2_Hide_TimeBomb_Bomb_Kneel;Time Bomb;Detonates in 7 sec.
+15001717;effect;time-bomb;Assassin_L4_Hide_TimeBomb_Bomb_Kneel;Time Bomb;Detonates in 7 sec.
+15001718;effect;kneel;Assassin_Hide_TimeBomb_Kneel;Dazed;Paralyzed
+15001719;effect;dispel-type;Assassin_Hide_TimeBomb_Bomb_Dispel;;
+15001720;effect;modify-recycle-time;Assassin_Disturb_ShadowSlash_RecycleTime_15s;;
+15001721;effect;modify-recycle-time;Assassin_Disturb_ShadowSlash_RecycleTime_Rset;;
+15001722;effect;modify-ability-433;Assassin_Disturb_LightningStep_Combo1_attribute;;
+15001723;effect;modify-ability-434;Assassin_Disturb_LightningStep_Combo2_attribute;;
+15001724;effect;dispel-type;Assassin_Disturb_LightningStep_Combo1_attribute_Dispel;;
+15001725;effect;dispel-type;Assassin_Disturb_LightningStep_Combo2_attribute_Dispel;;
